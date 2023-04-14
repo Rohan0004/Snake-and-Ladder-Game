@@ -1,2 +1,2 @@
 # Snake-and-Ladder-Game
-  two player game,created using javafx.
+  two player game, created using javafx.
